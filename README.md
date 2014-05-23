@@ -1,7 +1,7 @@
 rancid-linerate
 ===============
 
-A RANCID module for LineRate load balancer.
+A [RANCID](http://www.shrubbery.net/rancid/) module for [LineRate](https://linerate.f5.com/) load balancer.
 
 #### Installation:
 * Add `'linerate' => 'lrancid'` to the vendortable hash in rancid-fe
