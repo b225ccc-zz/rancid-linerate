@@ -11,4 +11,4 @@ A [RANCID](http://www.shrubbery.net/rancid/) module for [LineRate](https://liner
         linerate01:linerate:up
 
 #### Other Notes:
-Test with RANCID 2.3.8 and LROS 1.6
+Tested with RANCID 2.3.8 and LROS 1.6
