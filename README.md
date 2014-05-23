@@ -7,6 +7,7 @@ A RANCID module for LineRate load balancer.
 * Add `'linerate' => 'lrancid'` to the vendortable hash in rancid-fe
 * Add the `lrancid` file to your rancid bin directory
 * Update your `router.db` file, using `linerate` as the device type, like:
+
         linerate01:linerate:up
 
 #### Other Notes:
