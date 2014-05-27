@@ -5,7 +5,7 @@ A [RANCID](http://www.shrubbery.net/rancid/) module for [LineRate](https://liner
 
 #### Installation:
 * Add `'linerate' => 'lrancid'` to the vendortable hash in rancid-fe
-* Add the `lrancid` file to your rancid bin directory
+* Add the `lrancid` file to your rancid bin directory and make sure the rancid user has execute permissions
 * Update your `router.db` file, using `linerate` as the device type, like:
 
         linerate01:linerate:up
